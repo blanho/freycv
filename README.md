@@ -1,3 +1,3 @@
-# FreyCV - a AltaCV fork for Software Engineers
+# FreyCV - an AltaCV fork for Software Engineers
 
 ![](resume.jpg)
